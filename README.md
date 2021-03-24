@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @21Beagle
 - 👀 I’m interested in web development and software development. 
-- 🌱 I’m currently learning JavaScript, react, and html. 
+- 🌱 I’m currently learning JavaScript, react, html, css, and Python. 
 
 
 <!---
